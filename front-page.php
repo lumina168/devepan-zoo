@@ -74,8 +74,6 @@
 
                                 <?php endif; ?>
 
-
-
                                 <!-- facebook -->
                                 <?php $facebook = get_field('sns-facebook-acf'); ?>
                                 <?php if ($facebook) : ?>
